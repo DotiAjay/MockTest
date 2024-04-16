@@ -1,0 +1,13 @@
+.mainbg {
+  display: flex;
+  flex-direction: row;
+}
+
+.formCard {
+  margin: 20px;
+}
+.tagCard {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
